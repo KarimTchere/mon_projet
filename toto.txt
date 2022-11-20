@@ -3,4 +3,15 @@ C'est le jour J,
 Reveil à 8h du matin. 
 Prendre un bain, prendre une tasse de café,
 Attendre patiemment l'heure pour candidater
+<<<<<<< HEAD
 J'espère que tu le fera à coeur rassuré
+=======
+
+Date resultat : 01 Juin 2023
+Même rituel
+Ensuite papa
+PAPA
+Appeler PAPA
+Ca sera une journée inoubliable, je l'espère du fond de mon coeur.
+
+>>>>>>> 6438b6e0920e52cab859b2434842881bc343e21c
